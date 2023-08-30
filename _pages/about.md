@@ -25,14 +25,14 @@ Hongliang Hua received his Ph.D. degree in mechanical engineering from Nanjing U
 
 
 
-# Publication list
+> # Publication list
 
-## 2023
+>> ## 2023
   1. Hua H, Liao Z, Liu Y, et al. Compliant human–robot object transfer based on modular 3-axis force sensor for collaborative manufacturing[J]. ISA transactions, 2023. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0019057823003105)
   1. Hua Hongliang, Zhao Jingbo, Liao Zhenqiang, et al. Unconstrained Bezier Calibration Method for Nonlinear Measurement Calibration Applications: A Comparison Study[J]. IEEE Instrumentation & Measurement Magazine, 2023, 26(1): 42-50. [Paper link](https://ieeexplore.ieee.org/abstract/document/10034970)
   1. Hua Hongliang, Song Jie, Zhao Jingbo, et al. Sensor-less Grasping Force Control of a Pneumatic Underactuated Robotic Gripper[J]. Journal of Mechanisms and Robotics, 2023, 16(1): 031005.
   
-## 2022
+>> ## 2022
   1. 华洪良, 宋杰, 廖振强, 等. 面向机器人抓取的小型直线串联弹性驱动器设计与控制[J]. 农业机械学报, 2022, 53(12): 500-506.
   2. 华洪良, 廖振强, 郭魂, 等. 机枪系统支撑发射动力学特性及散布精度研究[J]. 兵器装备工程学报, 2022, 43(1): 42-47.
   3. Hua Hongliang, Liao Zhenqiang, Zhao Jingbo. Design, Analysis, and Experiment of an Underactuated Robotic Gripper Actuated by Linear Series Elastic Actuator[J]. Journal of Mechanisms and Robotics, 2022, 15(2): 021002.
