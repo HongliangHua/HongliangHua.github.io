@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hongliang Hua received his Ph.D. degree in mechanical engineering from Nanjing University of Science and Technology in Nanjing, China. He is an assistant professor at Changzhou Institute of Technology in Changzhou, China. His current research interests include robotic grasping control and structural optimization.
 
-# Recent projecs
+# Recent Work
 
 1. Robotic grasping sensing and control
 ![figure](/images/project_RoboticGraspingControl.png)
@@ -25,7 +25,7 @@ Hongliang Hua received his Ph.D. degree in mechanical engineering from Nanjing U
 
 
 
-# Publication list
+# Publication List
 
 ## 2023
   1. Hua H, Liao Z, Liu Y, et al. Compliant human–robot object transfer based on modular 3-axis force sensor for collaborative manufacturing[J]. ISA transactions, 2023. [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0019057823003105)
@@ -67,6 +67,6 @@ Hongliang Hua received his Ph.D. degree in mechanical engineering from Nanjing U
   3. 华洪良, 廖振强, 邱明, 等. 形貌优化在机枪枪管频率设计中的应用以及射击精度改进研究[J]. 振动工程学报, 2015, 28(06): 946-951.
   4. Hua Hongliang, Liao Zhenqiang, Song Jie. Vibration reduction and firing accuracy improvement by natural frequency optimization of a machine gun system[J]. Journal of Mechanical Science and Technology, 2015, 29(9): 3635-3643.
 
-# For more informatios
+# For More Informatios
 1. EMAIL: huahl123@126.com
 2. TEL: 15295179105 (Wechat)
