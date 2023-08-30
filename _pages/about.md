@@ -72,5 +72,5 @@ TEL: 15295179105 (Wechat)
   4. Hua Hongliang, Liao Zhenqiang, Song Jie. Vibration reduction and firing accuracy improvement by natural frequency optimization of a machine gun system[J]. Journal of Mechanical Science and Technology, 2015, 29(9): 3635-3643.
 
 # For More Informatios
-1. EMAIL: huahl123@126.com
-1. TEL: 15295179105 (Wechat)
+EMAIL: huahl123@126.com
+TEL: 15295179105 (Wechat)
