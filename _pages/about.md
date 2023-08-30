@@ -20,16 +20,18 @@ Publication list
 ======
 2023
 ------
-
 1. Hua Hongliang, Zhao Jingbo, Liao Zhenqiang, et al. Unconstrained Bezier Calibration Method for Nonlinear Measurement Calibration Applications: A Comparison Study[J]. IEEE Instrumentation & Measurement Magazine, 2023, 26(1): 42-50.[Paper link](https://ieeexplore.ieee.org/abstract/document/10034970)
-  -Hua Hongliang, Song Jie, Zhao Jingbo, et al. Sensor-less Grasping Force Control of a Pneumatic Underactuated Robotic Gripper[J]. Journal of Mechanisms and Robotics, 2023, 16(1): 031005.
-1. 2022
+1. Hua Hongliang, Song Jie, Zhao Jingbo, et al. Sensor-less Grasping Force Control of a Pneumatic Underactuated Robotic Gripper[J]. Journal of Mechanisms and Robotics, 2023, 16(1): 031005.
+
+2022
+------
   1.	华洪良, 宋杰, 廖振强, 等. 面向机器人抓取的小型直线串联弹性驱动器设计与控制[J]. 农业机械学报, 2022, 53(12): 500-506.
   2.	华洪良, 廖振强, 郭魂, 等. 机枪系统支撑发射动力学特性及散布精度研究[J]. 兵器装备工程学报, 2022, 43(1): 42-47.
   3.	Hua Hongliang, Liao Zhenqiang, Zhao Jingbo. Design, Analysis, and Experiment of an Underactuated Robotic Gripper Actuated by Linear Series Elastic Actuator[J]. Journal of Mechanisms and Robotics, 2022, 15(2): 021002.
   4.	Hua Hongliang, Liao Zhenqiang, Wu Xiaofeng, et al. A Back-drivable Linear Force Actuator for Adaptive Grasping[J]. Journal of Mechanical Science and Technology, 2022, 36(8): 4213-4220.
   5.	Hua Hongliang, Liao Zhenqiang, Song Jie, et al. A Sparse Piecewise Calibration Method for Potentiometer with Inherent Nonlinearity: A Comparison Study[J]. Measurement, 2022, 204(1): 112033.
-1. 2021
+2021
+------
   1.	华洪良, 廖振强, 陈勇将, 等. 面向夹持机构的紧凑型串联弹性力控驱动器设计与试验[J]. 农业机械学报, 2021, 52(12): 426-432,442.
   2.	华洪良, 廖振强. 一种动力吸振梁单元及其单元功能激活控制方法[J]. 应用力学学报, 2021, 38(6): 2243-2249.
   3.	华洪良, 郭魂, 苏纯, 等. 面向智能制造创新人才培养的机器人实验室开放项目实践探索[J]. 常州工学院学报, 2021, 34(5): 93-96.
