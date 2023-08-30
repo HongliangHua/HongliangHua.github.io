@@ -13,7 +13,6 @@ Hongliang Hua received his Ph.D. degree in mechanical engineering from Nanjing U
 1. Robotic grasping sensing and control
 1. Actuator development
 1. Sensor inherent nonlinearity calibration
-(/images/editing-talk.png)
 
 # Publication list
 
@@ -66,7 +65,7 @@ How to edit your site's GitHub repository
 ------
  
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/project_sensor.png)
 
 For more info
 ------
