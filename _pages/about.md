@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Hongliang Hua (华洪良)
+title: Hongliang Hua (华洪良2)
 excerpt: "About me"
 author_profile: true
 redirect_from: 
