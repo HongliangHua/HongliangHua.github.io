@@ -14,10 +14,15 @@ Hongliang Hua received his Ph.D. degree in mechanical engineering from Nanjing U
 1. Robotic grasping sensing and control
 ![figure](/images/project_RoboticGraspingControl.png)
 
-1. Actuator development
+1. Cost-effective multi-axis force sensor development
+![figure](/images/project_CostEffectiveForceSensor.png)
+
+1. Human-robot interaction
+![figure](/images/project_HumanRobotInteraction.png)
 
 1. Sensor inherent nonlinearity calibration
 ![figure](/images/project_sensorCalibration.png)
+
 
 
 # Publication list
