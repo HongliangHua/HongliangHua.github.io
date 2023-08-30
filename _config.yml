@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : huahl123@126.com
+  email            : "huahl123@126.com"
   researchgate     : https://www.researchgate.net/profile/Hongliang-Hua
   uri              :
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  tel              : 15295179105
+  tel              : "15295179105"
 
 
 # Reading Files
