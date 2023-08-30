@@ -59,3 +59,15 @@ Hongliang Hua received his Ph.D. degree in mechanical engineering from Nanjing U
 # For more informatios
 1. EMAIL: huahl123@126.com
 2. TEL: 15295179105 (Wechat)
+
+
+
+How to edit your site's GitHub repository
+------
+ 
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
+
+For more info
+------
+More info about co
