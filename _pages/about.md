@@ -17,9 +17,11 @@ Recent projecs
 
 
 Publication list
+======
+2023
 ------
-1. 2023
-  -Hua Hongliang, Zhao Jingbo, Liao Zhenqiang, et al. Unconstrained Bezier Calibration Method for Nonlinear Measurement Calibration Applications: A Comparison Study[J]. IEEE Instrumentation & Measurement Magazine, 2023, 26(1): 42-50.
+
+1. Hua Hongliang, Zhao Jingbo, Liao Zhenqiang, et al. Unconstrained Bezier Calibration Method for Nonlinear Measurement Calibration Applications: A Comparison Study[J]. IEEE Instrumentation & Measurement Magazine, 2023, 26(1): 42-50.[Paper link](https://ieeexplore.ieee.org/abstract/document/10034970)
   -Hua Hongliang, Song Jie, Zhao Jingbo, et al. Sensor-less Grasping Force Control of a Pneumatic Underactuated Robotic Gripper[J]. Journal of Mechanisms and Robotics, 2023, 16(1): 031005.
 1. 2022
   1.	华洪良, 宋杰, 廖振强, 等. 面向机器人抓取的小型直线串联弹性驱动器设计与控制[J]. 农业机械学报, 2022, 53(12): 500-506.
@@ -50,8 +52,12 @@ Publication list
   3.	华洪良, 廖振强, 邱明, 等. 形貌优化在机枪枪管频率设计中的应用以及射击精度改进研究[J]. 振动工程学报, 2015, 28(06): 946-951.
   4.	Hua Hongliang, Liao Zhenqiang, Song Jie. Vibration reduction and firing accuracy improvement by natural frequency optimization of a machine gun system[J]. Journal of Mechanical Science and Technology, 2015, 29(9): 3635-3643.
 
-Create content & metadata
+For more informatios
 ------
+1. EMAIL: huahl123@126.com
+2. TEL: 15295179105 (Wechat)
+
+
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 **Markdown generator**
