@@ -14,6 +14,7 @@ Hongliang Hua received his Ph.D. degree in mechanical engineering from Nanjing U
 ![figure](/images/project_sensor.png)
 1. Actuator development
 1. Sensor inherent nonlinearity calibration
+![figure](/images/project_grasping.png)
 
 # Publication list
 
