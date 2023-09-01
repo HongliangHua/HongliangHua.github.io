@@ -10,9 +10,6 @@ redirect_from:
 
 Hongliang Hua received his Ph.D. degree in mechanical engineering from Nanjing University of Science and Technology in Nanjing, China. He is an assistant professor at Changzhou Institute of Technology in Changzhou, China. His current research interests include robotic grasping control and structural optimization.
 
-EMAIL: huahl123@126.com
-
-TEL: 15295179105 (Wechat)
 
 
 # Recent Work
@@ -75,4 +72,5 @@ TEL: 15295179105 (Wechat)
 
 # For More Informatios
 EMAIL: huahl123@126.com
+
 TEL: 15295179105 (Wechat)
